@@ -2,14 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=%23300DaysWithAppSec;300+Vulnerabilities.+Real+Education.;Web+%7C+API+%7C+Mobile+%7C+Cloud+%7C+AI%2FLLM" alt="Typing SVG" />
 
-<br/>
 
-![Stars](https://img.shields.io/github/stars/anand87794/300DaysWithAppSec?style=for-the-badge&color=3b82f6)
-![Forks](https://img.shields.io/github/forks/anand87794/300DaysWithAppSec?style=for-the-badge&color=6366f1)
-![Issues](https://img.shields.io/github/issues/anand87794/300DaysWithAppSec?style=for-the-badge&color=ec4899)
-![License](https://img.shields.io/github/license/anand87794/300DaysWithAppSec?style=for-the-badge&color=10b981)
-
-<br/>
 
 > **300 vulnerabilities. 300 infographics. 300 in-depth articles.**  
 > *The most visual, beginner-friendly application security series on the internet.*
