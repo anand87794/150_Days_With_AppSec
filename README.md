@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Prajapati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-prajapati-7a265a369)
 [![GitHub](https://img.shields.io/badge/GitHub-anand87794-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anand87794)
 [![Portfolio](https://img.shields.io/badge/Portfolio-anandprajapati.lovable.app-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://anandprajapati.lovable.app)
-[![X](https://img.shields.io/badge/X%20(Twitter)-@anand87794-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anand87794)
+[![X](https://img.shields.io/badge/X%20(Twitter)-@anand114bug-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anand87794)
 
 </div>
 
