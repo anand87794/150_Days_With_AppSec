@@ -1,6 +1,6 @@
 # Subdomain Enumeration: Finding Every Entry Point Before the Attacker Does
 
-**Severity:** LOW | **Category:** Recon | **Series:** #300DaysWithAppSec
+**Severity:** LOW | **Category:** Recon | **Series:** #150DaysWithAppSec
 
 ---
 
