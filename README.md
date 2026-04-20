@@ -254,7 +254,7 @@ Active on HackerOne and Bugcrowd.
 | 🔗 LinkedIn | [linkedin.com/in/anand-prajapati-7a265a369](https://linkedin.com/in/anand-prajapati-7a265a369) |
 | 🐙 GitHub | [github.com/anand87794](https://github.com/anand87794) |
 | 🌐 Portfolio | [anandprajapati.lovable.app](https://anandprajapati.lovable.app) |
-| 🐦 X (Twitter) | [@anand87794](https://x.com/anand114bug) |
+| 🐦 X (Twitter) | [@anand114bug](https://x.com/anand114bug) |
 | 📧 Email | available on portfolio |
 
 </div>
