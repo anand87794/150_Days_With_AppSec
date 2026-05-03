@@ -208,6 +208,6 @@ Remediation:
 
 *Written by Anand Prajapati — Penetration Tester & Security Researcher*
 
-🔗 **Connect:** [LinkedIn](https://linkedin.com/in/anand-prajapati-7a265a369) · [GitHub](https://github.com/anand87794) · [Portfolio](https://anandprajapati.lovable.app) · [X @anand87794](https://x.com/anand87794)
+🔗 **Connect:** [LinkedIn](https://linkedin.com/in/anand-prajapati-7a265a369) · [GitHub](https://github.com/anand87794) · [Portfolio](https://anandprajapati.lovable.app) · [X @anand87794](https://x.com/anand114bug)
 
 *Part of the #300DaysWithAppSec series — 300 vulnerabilities, real security education.*
